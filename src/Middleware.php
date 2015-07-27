@@ -1,5 +1,5 @@
 <?php
-namespace Stratedge\Quint\Middleware;
+namespace Stratedge\Quint;
 
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
