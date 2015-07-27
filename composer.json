@@ -1,0 +1,22 @@
+{
+	"name": "Quint",
+	"type": "library",
+	"description": "A PSR-7 compliant middleware helper.",
+	"homepage": "https://github.com/stratedge/quint",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jarret Byrne",
+			"email": "jarret@solvomedia.com",
+			"homepage": "http://jarretbyrne.com"
+		}
+	],
+	"require": {
+		"psr/http-message": "1.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Stratedge\\Quint": "src"
+		}
+	}
+}
