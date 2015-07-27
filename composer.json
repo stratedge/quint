@@ -1,5 +1,5 @@
 {
-	"name": "Quint",
+	"name": "stratedge/quint",
 	"type": "library",
 	"description": "A PSR-7 compliant middleware helper.",
 	"homepage": "https://github.com/stratedge/quint",
